@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kourosh-Hajivand
 - 👀 I’m interested in Front-End developer
-- 🌱 I’m currently learning Ract.js
-- I know about : Html-5/Css-3/Bootstrap-5/Javascript
+- 🌱 I’m currently Looking for a Job
+- I know about : Html-5/Css-3/Bootstrap-5/Javascript/React.js/Reac-Router/Redux
 
 
 - 📫 How to reach me 

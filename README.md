@@ -7,7 +7,7 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-i'm currently learning New Things Maby (React Native)
+i'm currently learning New Things Maby (React Native,Typescripts ,three.js)
 
 - 📫 How to reach me 
 - Instagram : _Kourosh.h

@@ -1,44 +1,46 @@
 ## Kourosh Hajivand  
-Senior Front-End Engineer
+Senior Front-End Engineer • Front-End Lead  
 
-Building scalable, high-performance web & mobile applications with a focus on clean architecture, performance, and user experience.
-
----
-
-### Core Stack
-React • Next.js • React Native (Expo) • TypeScript • JavaScript
-
-### Advanced
-Web3 • Three.js • Redux • React Query • REST APIs • JWT Auth
-
-### UI & Systems
-Tailwind • Styled Components • MUI • Design Systems
-
-### Tools
-Git • Vercel • Postman • Swagger • Figma
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=AAAAAA&lines=React+%7C+Next.js+%7C+React+Native;Web3+%7C+Three.js;Leading+Frontend+Projects" />
+</p>
 
 ---
 
-### Experience
-6+ years building production-grade applications  
-Remote collaboration across international teams  
-End-to-end ownership (architecture → deployment)  
+### ⚡ Stack
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
 
 ---
 
-### Focus
-Scalability • Performance • Maintainability • Clean Code
+### 🧠 Advanced
+![Web3.js](https://img.shields.io/badge/Web3-F16822?logo=web3.js)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=three.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery)
 
 ---
 
-### Links
-Portfolio: https://www.kourosh-h.ir  
-Instagram: https://instagram.com/_kourosh.h  
-Twitter: https://twitter.com/Kouroosh_H  
+### 🧭 Leadership
+Front-End Lead • Project Coordination • Team Collaboration  
+Feature Ownership • Architecture Decisions • Delivery Management  
 
 ---
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kourosh-Hajivand&show_icons=true&theme=dark&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kourosh-Hajivand&theme=dark&hide_border=true)  
+### 🎯 Focus
+Scalable Systems • Performance • Clean Architecture • UX Excellence  
+
+---
+
+### 🌍 Experience
+6+ years • Remote-first • Production-grade applications  
+Led front-end teams & coordinated cross-functional projects  
+
+---
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kourosh-Hajivand&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kourosh-Hajivand&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kourosh-Hajivand&layout=compact&theme=dark&hide_border=true)

@@ -2,7 +2,7 @@
 Senior Front-End Engineer • Front-End Lead  
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=AAAAAA&lines=React+%7C+Next.js+%7C+React+Native;Web3+%7C+Three.js;Leading+Frontend+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&pause=700&color=58A6FF&width=650&lines=Senior+Frontend+Engineer;React+%7C+Next.js+%7C+React+Native+%28Expo%29;Web3+%7C+Three.js+%7C+TypeScript;Building+Scalable+%26+High-Performance+Systems;Frontend+Lead+%7C+Product+Thinking" />
 </p>
 
 ---
